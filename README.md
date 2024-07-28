@@ -1,2 +1,0 @@
-# FakhriUzumaki-
-Rawr

@@ -1,0 +1,75 @@
+body {
+    font: Arial;
+    background-color: #F8F8FF;
+}
+
+header {
+    background-color: Green;
+    color: White;
+    text-align: center;
+    padding:5px;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+header a {
+    text-decoration: none;
+    color: White;
+    font-size: 16px;
+}
+
+header a::hover{
+    background-color: White;
+    color: Green;
+}
+
+.awalan {
+    text-align: center;
+    padding: 5px;
+    background-color: White;
+    border-radius: 25px;
+    justify-contennt: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.awalan a{
+    Background-color: Green;
+    color: White;
+    height: 20%;
+    widht: 20%;
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 7px;
+    text-decoration: bold;
+}
+
+.Kartu{
+    align-item: center;
+    text-align: center;
+    background-color: White;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.Kartu Kata{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.Kartu img{
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.Kartu .Kata nama{
+    text-decoration:bold;
+}
+
+.Kartu h3{
+    padding-top: 40px;
+}
+    
+.Kartu alamat{
+    padding-bottom: 20px;
+}
+    
